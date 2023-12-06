@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-rendering: optimizeLegibility;
+    font-family: 'Poppins', sans-serif; 
+    
+}
+
+
+#p1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+  
+}
+h1,h3{
+    margin:1rem;
+}
+
+ #totaly{
+
+  
+   display: block;
+   
+    padding: 3rem;
+
+   
+    height: 60rem;
+    width: 50rem;
+    border-radius: 0.5rem;
+    background-color: aliceblue;
+  
+}
+
+img{
+    height: 10rem;
+}
+
+.tamanho{
+
+    font-size: 3rem;
+}
+
+.titulo{
+
+    font-size: 4rem;
+}
+
+#inputs{
+    margin: 8rem;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#user, #pass{
+
+   
+     margin: 1rem;
+     width: 30rem;
+    height: 3rem;
+    font-size: 2rem;
+}
+
+
+#login{
+    width: 8rem;
+    height: 4rem;
+    margin: 1rem;
+    font-size: 3rem;
+}
